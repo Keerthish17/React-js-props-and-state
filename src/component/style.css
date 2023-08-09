@@ -1,0 +1,18 @@
+.container{
+    border: 2px solid black;
+    border-radius: 10px;
+    color: rgb(251, 251, 251) ;
+    text-align: center;
+    background-color: rgb(50, 197, 197);
+    height: fit-content;
+    -webkit-backface-visibility:2 ;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+#img{
+    padding-top: 24px;
+    width: 100px;
+    height: 100px;
+}
